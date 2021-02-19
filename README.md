@@ -1,4 +1,10 @@
-# annotated_context_for_OpenSubtitles_ja-en
-Manually annotated data for context-aware machine translation models
+# OpenSubtitles(ja-en)用の文脈文アノテーションデータ
+このリポジトリは，言語処理学会2021での発表および修士論文に関するものです．  
+- 言語処理学会2021：[予稿集リンク先（準備中）]()
+- 修士論文：[修士論文リンク先（準備中）]()
 
-**NOW PREPARRING**
+安本玄樹 ＠ 奈良先端科学技術大学院大学 知能コミュニケーション研究室  
+2021年3月時点
+
+## データの公開に関して
+言語処理学会の原稿にて，データは公開予定としておりましが，見合わせることとなりました．ご理解いただきますよう，お願い申し上げます．
